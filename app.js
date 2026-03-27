@@ -19,7 +19,3 @@ function getRandomColor () {
     let RGBColor = `rgb(${red}, ${green}, ${blue})`
     return RGBColor;
 }
-
-
-
-https://github.com/muhammadasimafridi/generate-random-colors.git
